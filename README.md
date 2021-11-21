@@ -21,3 +21,5 @@ In the main.py, we import this and define an object of type DataBase to store lo
 “users.txt”.
 ## main.py
 This is the main file to be executed.
+## Project Report.pdf
+It is the project report containing additional details.
